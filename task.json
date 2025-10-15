@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Walk dog",
+        "status": "todo",
+        "createdAt": "2025-10-15T12:59:13Z",
+        "updatedAt": "2025-10-15T12:59:13Z"
+    },
+    {
+        "id": 2,
+        "description": "Afternoon Gym",
+        "status": "done",
+        "createdAt": "2025-10-15T13:01:07Z",
+        "updatedAt": "2025-10-15T13:59:00Z"
+    },
+    {
+        "id": 3,
+        "description": "Movie Date",
+        "status": "todo",
+        "createdAt": "2025-10-15T13:59:31Z",
+        "updatedAt": "2025-10-15T13:59:31Z"
+    }
+]
